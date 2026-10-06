@@ -217,14 +217,6 @@ This project was developed as part of my **Thiranex Internship** to strengthen m
 
 **Aqsa Shahzadi**
 
-### GitHub
-
-Add your GitHub profile/repository link here.
-
-### LinkedIn
-
-Add your LinkedIn profile link here.
-
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository and give it a star.
