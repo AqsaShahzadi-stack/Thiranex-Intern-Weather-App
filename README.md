@@ -48,9 +48,7 @@ Thiranex-Intern-Weather-App/
 │
 ├── index.html
 ├── style.css
-├── script.js
 │
-├── images/
 │   ├── search-icon.png
 │   ├── cloudy.png
 │   ├── sunny.png
@@ -75,26 +73,6 @@ The API provides information such as:
 * Weather condition
 * Weather icon
 
-### 🔐 API Key Setup
-
-For security reasons, the API key is **not included in this GitHub repository**.
-
-To run the project locally:
-
-1. Create an account on OpenWeatherMap.
-2. Generate an API key.
-3. Add your API key to the JavaScript configuration.
-4. Do not commit or push your API key to GitHub.
-
-Example:
-
-```javascript
-const apiKey = "YOUR_API_KEY";
-```
-
-Replace `YOUR_API_KEY` with your own API key locally.
-
-> ⚠️ Never publish your actual API key in a public GitHub repository.
 
 ## 🚀 How to Run the Project
 
@@ -108,15 +86,11 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 
 Open the project folder in **Visual Studio Code**.
 
-### 3. Add your API key
-
-Add your OpenWeatherMap API key to the JavaScript configuration.
-
-### 4. Run the application
+### 5. Run the application
 
 Open `index.html` using **Live Server** or your preferred local development server.
 
-### 5. Search for a city
+### 6. Search for a city
 
 Enter a city name such as:
 
@@ -200,14 +174,6 @@ Invalid city name
 
 The weather information is hidden when the requested city cannot be found.
 
-## 📱 Responsive Design
-
-The application is designed to work across:
-
-* Desktop
-* Laptop
-* Tablet
-* Mobile devices
 
 ## 🎓 Internship Project
 
